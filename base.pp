@@ -17,7 +17,7 @@ class pasture::base {
    ensure   => present,
  }
 
- package { 'rubegem-thin':
+ package { 'rubygem-thin':
    ensure   => present,
  }
 
