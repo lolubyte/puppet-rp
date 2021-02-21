@@ -1,5 +1,5 @@
 #Puppet file
-class pasture::base {
+class pasture::basse {
 
  package { 'gem':
    ensure   => present,
